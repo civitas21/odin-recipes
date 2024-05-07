@@ -1,0 +1,48 @@
+body{
+    background-color: aqua;
+    font-family: "Georgia", sans-serif;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: orangered;
+
+}
+
+ul, ol{
+    font-size: 25px;
+    padding: 40px;
+    margin-left: 20px;
+}
+
+ul{
+    list-style-type: square;
+    color: orange;
+    background-color: rgb(68, 173, 173);
+    
+}
+
+ul li{
+    color: orangered;
+    
+}
+
+ol{
+    list-style-type: lower-roman;
+    color: orange;
+    background-color: rgb(68, 173, 173);
+}
+
+ol li{
+    color: rgb(226, 0, 0);
+}
+
+p{
+    background-color: blueviolet;
+    font-size: 25px;
+}
+
+h2{
+    font-size: 35px;
+    font-weight: bold;
+}
